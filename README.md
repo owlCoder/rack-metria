@@ -9,11 +9,11 @@ Simulacija IT, elektroenergetske i rashladne infrastrukture data centra.
 
 ## Status i specifikacija
 
-Početni šablon za studentski projekat. Implementacija još nije započeta.
+Početni repozitorijum za studentski projekat. Implementacija još nije započeta.
 
 📄 [Tehnička specifikacija projekta](docs/RackMetria_Tehnicka_specifikacija.pdf)
 
-PDF specifikacija je merodavna za obuhvat, zahteve i kriterijume prihvatanja. Ovaj README je uvod i šablon koji tim dopunjava tokom razvoja; pregled ispod ne zamenjuje kompletnu specifikaciju.
+PDF specifikacija je merodavna za obuhvat, zahteve i kriterijume prihvatanja. Ovaj README je uvod koji tim dopunjava tokom razvoja; pregled ispod ne zamenjuje kompletnu specifikaciju.
 
 ## O projektu
 
@@ -29,16 +29,17 @@ Glavne funkcionalne celine:
 ## Kako započeti
 
 1. Pročitajte tehničku specifikaciju, posebno arhitekturna pravila i kriterijume prihvatanja.
-2. Izaberite **Use this template → Create a new repository** da napravite repozitorijum svog tima.
-3. Klonirajte svoju kopiju. U primeru zamenite `VAS_NALOG` i `VAS_REPOZITORIJUM` stvarnim nazivima:
+2. Nastavnik dodaje studente kao saradnike u ovaj repozitorijum. Prihvatite poziv za pristup kada ga dobijete.
+3. Klonirajte ovaj repozitorijum:
 
    ```bash
-   git clone https://github.com/VAS_NALOG/VAS_REPOZITORIJUM.git
-   cd VAS_REPOZITORIJUM
+   git clone https://github.com/owlCoder/rack-metria.git
+   cd rack-metria
    ```
 
-4. Popunite podatke o timu, izbor tehnologija i uputstvo za lokalno pokretanje.
-5. Organizujte implementaciju prema granicama odgovornosti iz specifikacije i pratite zahteve kroz zadatke i testove.
+4. Rad na projektu odvija se u ovom repozitorijumu. Izmene objavljujte nakon što dobijete pristup za upis, prema dogovoru sa nastavnikom.
+5. Popunite podatke o timu, izbor tehnologija i uputstvo za lokalno pokretanje.
+6. Organizujte implementaciju prema granicama odgovornosti iz specifikacije i pratite zahteve kroz zadatke i testove.
 
 ## Tim
 
